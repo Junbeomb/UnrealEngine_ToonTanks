@@ -24,6 +24,8 @@ public:
 	//EditDefaultsOnly : 블프에서만 편집가능.
 	//EditInstanceOnly : 월드 아웃라이너 에서만 편집 가능.
 
+	void HandleDestruction();
+
 
 
 protected:
